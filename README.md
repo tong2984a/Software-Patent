@@ -1,4 +1,4 @@
-# Drafting by keeing multiple patent offices in mind 
+# Drafting by keeping multiple patent offices in mind 
 
 - Your specification should provide support readily for claim drafting to belong in any one of the four 方法/步骤, namely, 1、涉及自动化技术处理过程, 2、涉及计算机内部运行性能改进, 3、涉及测量或测试计算机程序过程, 4、用于外部数据处理的软件.
 
